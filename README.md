@@ -10,7 +10,7 @@ List of malicious modders in GTA Online made by
 | USERNAME          | ROCKSTAR ID | REASON                  | NOTES            |
 |-------------------|-------------|-------------------------|------------------|
   |   |   |
-\_\_Lizzzy__<br>Hebsoulia<br>ElllisGame<br>-Kelsie-<br>The_Cash_Is_King<br>IlIIIIxIlllIIl<br>Diemas0907 | 216527576<br>216671017<br>215976253<br>206611492<br>218535986<br>209232813<br>171580465 | Harassment, Stalking, Extortion, (Remote) Crash, (Remote) Kick | **Very dangerous**<br>[Reddit Post](https://www.reddit.com/r/Gta5Modding/comments/1093h0m/is_there_someone_who_can_stop_this_player/)
+\_\_Lizzzy__<br>Hebsoulia<br>ElllisGame<br>-Kelsie-<br>The_Cash_Is_King<br>IlIIIIxIlllIIl<br>Diemas0907<br>--lizzy-- | 216527576<br>216671017<br>215976253<br>206611492<br>218535986<br>209232813<br>171580465<br>218368055 | Harassment, Stalking, Extortion, (Remote) Crash, (Remote) Kick | **Very dangerous**<br>[Reddit Post](https://www.reddit.com/r/Gta5Modding/comments/1093h0m/is_there_someone_who_can_stop_this_player/)
   |   |   |
 | __Seb__22         | 217701614   | Crash, Kick             | "Stand" mod menu |
 | \_Enchi1          | 206552769   | Kick                    |                  |
